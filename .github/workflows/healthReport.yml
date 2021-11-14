@@ -33,5 +33,4 @@ jobs:
           python health_report_helper/main.py "${{ secrets.DATAH }}"
           python health_report_helper/main.py "${{ secrets.DATAL }}"
           python health_report_helper/main.py "${{ secrets.DATAGKX }}"
-          python health_report_helper/main.py "${{ secrets.DATAZY }}"
           python health_report_helper/main.py "${{ secrets.DATAWJR }}"
