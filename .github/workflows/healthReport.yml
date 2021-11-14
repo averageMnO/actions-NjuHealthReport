@@ -32,3 +32,4 @@ jobs:
           python health_report_helper/main.py "${{ secrets.DATA }}"
           python health_report_helper/main.py "${{ secrets.DATAH }}"
           python health_report_helper/main.py "${{ secrets.DATAL }}"
+          python health_report_helper/main.py "${{ secrets.DATAGKX }}"
